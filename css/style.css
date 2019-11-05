@@ -90,7 +90,7 @@ ul, li, p, img, a, h1, h2, h3, h4, h5, h6 {
 	color: #000;
 	background: #7f7e84;
 	padding: 5px 0px;
-	position: fixed;
+	position: fixed; 
 	width: 100%; 
 	bottom: 0;
 	text-align: center;
